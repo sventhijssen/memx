@@ -1,3 +1,5 @@
+<img src="logo.png" width="280px"/>
+
 # MemX: A Python Package for Digital In-Memory Computing on Nanoscale Memristor Crossbars
 
 ## Update October 24, 2022
