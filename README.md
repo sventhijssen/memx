@@ -2,7 +2,15 @@
 
 # MemX: A Python Package for Digital In-Memory Computing on Nanoscale Memristor Crossbars
 
-## Update October 24, 2022
+
+## Update November 1, 2023
+MemX will be delayed by one or more days to ensure correct functionality, make code improvements (refactoring), add small tutorials, and add some initial documentation to the code.
+
+Thank you for your patience and understanding.\
+Best regards,\
+Sven
+
+## Update October 24, 2023
 MemX will be released before 31 October 2023. The MemX package will include source code for flow-based computing and path-based computing.
 The package is developed to enhance the research towards these digital in-memory computing paradigms.
 
