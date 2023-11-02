@@ -1,0 +1,80 @@
+[
+      {
+            "name": "y",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "x",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "name": "z",
+            "nodes": 6,
+            "edges": 8,
+            "roots": 1,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "synthesis_method": "COMPACT",
+            "nodes": 6,
+            "edges": 8,
+            "rows": 4,
+            "columns": 3,
+            "labeling": {
+                  "labeling_method": "KLabeling",
+                  "solution": {
+                        "objective": 7.0,
+                        "layers": {
+                              "0": 4,
+                              "1": 3
+                        }
+                  }
+            },
+            "synthesis_time": 0.05768084526062012
+      },
+      {
+            "synthesis_method": "COMPACT",
+            "nodes": 6,
+            "edges": 8,
+            "rows": 4,
+            "columns": 3,
+            "labeling": {
+                  "labeling_method": "KLabeling",
+                  "solution": {
+                        "objective": 7.0,
+                        "layers": {
+                              "0": 4,
+                              "1": 3
+                        }
+                  }
+            },
+            "synthesis_time": 0.05654430389404297
+      },
+      {
+            "synthesis_method": "COMPACT",
+            "nodes": 6,
+            "edges": 8,
+            "rows": 4,
+            "columns": 3,
+            "labeling": {
+                  "labeling_method": "KLabeling",
+                  "solution": {
+                        "objective": 7.0,
+                        "layers": {
+                              "0": 4,
+                              "1": 3
+                        }
+                  }
+            },
+            "synthesis_time": 0.0612797737121582
+      }
+]

@@ -1,0 +1,16 @@
+# Default ignored files
+/workspace.xml
+
+.idea/
+__pycache__/
+
+# ABC directory
+abc/
+
+# Virtual environment
+venv/
+
+docs/build/
+
+# Locked files
+.~lock.*

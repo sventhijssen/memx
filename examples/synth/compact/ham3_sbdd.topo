@@ -1,0 +1,25 @@
+.model 139839545779072
+.inputs b c a
+.outputs x y z
+.topo
+.model 139839545777776
+.type memristor
+.inputs b c a
+.outputs z x y
+.rows 7
+.columns 4
+.i 1 5
+.i 0 6
+.o z 0
+.o x 1
+.o y 2
+.xbar
+1	0	0	~b
+0	b	0	~b
+0	~b	0	b
+0	1	c	~c
+b	0	~c	c
+0	0	~a	a
+0	0	a	~a
+.end
+.end

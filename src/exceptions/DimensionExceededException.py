@@ -1,0 +1,2 @@
+class DimensionExceededException(Exception):
+    pass

@@ -1,0 +1,28 @@
+[
+      {
+            "name": "ham3",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 3,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "synthesis_method": "COMPACT",
+            "nodes": 9,
+            "edges": 14,
+            "rows": 7,
+            "columns": 4,
+            "labeling": {
+                  "labeling_method": "KLabeling",
+                  "solution": {
+                        "objective": 11.0,
+                        "layers": {
+                              "0": 7,
+                              "1": 4
+                        }
+                  }
+            },
+            "synthesis_time": 0.06037020683288574
+      }
+]

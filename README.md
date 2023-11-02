@@ -1,8 +1,25 @@
-<img src="logo.png" width="280px"/>
+<img src="docs/source/_static/memx_banner.png" width="280px"/>
 
 # MemX: A Python Package for Digital In-Memory Computing on Nanoscale Memristor Crossbars
 
-## Update October 24, 2022
+## Update October 31, 2023
+Dear research community,
+
+It is with great pleasure that I can announce the first release of MemX.
+I hope that this library will be ever-evolving, resulting in new advances within the realm of both flow-based and path-based computing.
+
+By making MemX available, I hope that other researchers within the EDA and CAD community are inspired to follow in these footsteps to accelerate the research on in-memory computing.
+
+The MemX library will undergo updates in several phases (see below). A more detailed timeline will follow.
+
+1. Code release
+2. Documentation using Sphinx
+3. Coverage testing and unit testing
+
+Sincerely yours,\
+Sven
+
+## Update October 24, 2023
 MemX will be released before 31 October 2023. The MemX package will include source code for flow-based computing and path-based computing.
 The package is developed to enhance the research towards these digital in-memory computing paradigms.
 

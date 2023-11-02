@@ -1,0 +1,15 @@
+.model ham3
+.inputs b a c
+.outputs x y z
+.order b c a
+.bdd
+18 e 13 b z
+14 11 13 b x
+15 13 11 b y
+11 17 13 c
+e 13 17 c
+17 8 7 a
+13 7 8 a
+7 -1 -1 1
+8 -1 -1 0
+.end

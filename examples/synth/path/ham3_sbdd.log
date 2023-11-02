@@ -1,0 +1,30 @@
+[
+      {
+            "name": "ham3",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 3,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "type": "PATH",
+            "partitioning_method": {
+                  "type": "UnconstrainedPartitioning",
+                  "bipartite_graph": {
+                        "U": 9,
+                        "V": 14,
+                        "E": 28
+                  },
+                  "topology": {
+                        "id": 139948592397232,
+                        "type": "Topology",
+                        "nodes": 1,
+                        "inter_connections": 0,
+                        "critical_path_length": 1
+                  },
+                  "time": 0.0010564327239990234
+            },
+            "time": 0.001149892807006836
+      }
+]

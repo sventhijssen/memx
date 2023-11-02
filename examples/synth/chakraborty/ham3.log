@@ -1,0 +1,18 @@
+[
+      {
+            "name": "ham3",
+            "nodes": 9,
+            "edges": 14,
+            "roots": 3,
+            "positive_terminal_node": true,
+            "negative_terminal_node": true
+      },
+      {
+            "synthesis_method": "ChakrabortyAutomatedSynthesis",
+            "nodes": 9,
+            "edges": 14,
+            "rows": 9,
+            "columns": 14,
+            "synthesis_time": 0.0010554790496826172
+      }
+]

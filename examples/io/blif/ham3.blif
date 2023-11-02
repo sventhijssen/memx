@@ -1,0 +1,17 @@
+# Benchmark "ham3" written by ABC on Wed Nov  1 10:46:38 2023
+.model ham3
+.inputs a b c
+.outputs x y z
+.names a b c x
+011 1
+10- 1
+110 1
+.names a b c y
+001 1
+1-0 1
+111 1
+.names a b c z
+010 1
+10- 1
+111 1
+.end

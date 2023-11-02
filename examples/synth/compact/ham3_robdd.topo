@@ -1,0 +1,50 @@
+.model 140512706378864
+.inputs a c b
+.outputs y x z
+.topo
+.model 140512706375408
+.type memristor
+.inputs b a c
+.outputs z
+.rows 4
+.columns 3
+.i 1 2
+.i 0 3
+.o z 0
+.xbar
+1	0	~b
+b	~c	c
+0	~a	a
+0	a	~a
+.end
+.model 140512706374544
+.type memristor
+.inputs b a c
+.outputs x
+.rows 4
+.columns 3
+.i 1 2
+.i 0 3
+.o x 0
+.xbar
+b	0	~b
+1	c	~c
+0	~a	a
+0	a	~a
+.end
+.model 140512706372288
+.type memristor
+.inputs b a c
+.outputs y
+.rows 4
+.columns 3
+.i 1 2
+.i 0 3
+.o y 0
+.xbar
+~b	0	b
+1	c	~c
+0	~a	a
+0	a	~a
+.end
+.end
