@@ -2,6 +2,12 @@
 
 # MemX: A Python Package for Digital In-Memory Computing on Nanoscale Memristor Crossbars
 
+The website with documentation can be found here: http://www.memx-library.org/
+
+## Update November 2, 2023
+The MemX website is online here: http://www.memx-library.org/.
+A preliminary installation guide, tutorial and documentation are provided.
+
 ## Update November 1, 2023
 Dear research community,
 

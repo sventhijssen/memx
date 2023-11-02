@@ -43,14 +43,14 @@ html_theme_options = {
     "collapse_navigation": True,
     "navigation_depth": 2,
     "show_prev_next": False,
-    # "icon_links": [
-    #     {"name": "Home Page", "url": "https://memx-library.org", "icon": "fas fa-home"},
-    #     {
-    #         "name": "GitHub",
-    #         "url": "https://github.com/sventhijssen/memx",
-    #         "icon": "fab fa-github-square",
-    #     },
-    # ],
+    "icon_links": [
+        {"name": "Home Page", "url": "https://memx-library.org", "icon": "fas fa-home"},
+        {
+            "name": "GitHub",
+            "url": "https://github.com/sventhijssen/memx",
+            "icon": "fab fa-github-square",
+        },
+    ],
     # "external_links": [{"name": "Guides", "url": "https://networkx.org/nx-guides/"}],
     "navbar_end": ["navbar-icon-links"],
     "secondary_sidebar_items": ["page-toc", "edit-this-page"],
@@ -63,6 +63,9 @@ html_theme_options = {
     # },
     # "show_version_warning_banner": True,
 }
+
+pygments_style = 'sphinx'
+
 html_sidebars = {
     "**": ["sidebar-nav-bs", "sidebar-ethical-ads"],
     "index": [],

@@ -12,13 +12,10 @@ MemX is a Python package to accelerate the research towards digital in-memory co
 flow-based and path-based computing.
 It provides:
 
--  synthesis methods, verification techniques, and fault-tolerance techniques;
--  an easy-to-use command-line interface;
--  a rapid development environment for collaborative, multidisciplinary
-   projects;
--  an interface to existing numerical algorithms and code written in C,
-   C++, and FORTRAN; and
-
+- synthesis methods, verification techniques, and fault-tolerance techniques;
+- simulation on a logical level of both flow-based and path-based computing;
+- I/O functionality for different Boolean function representations, including crossbar designs;
+- an easy-to-use command-line interface.
 
 Citation
 --------
@@ -36,4 +33,5 @@ License
    :hidden:
 
    install
+   tutorial
    reference/index
