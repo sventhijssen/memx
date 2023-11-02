@@ -2,7 +2,7 @@
 
 # MemX: A Python Package for Digital In-Memory Computing on Nanoscale Memristor Crossbars
 
-## Update October 31, 2023
+## Update November 1, 2023
 Dear research community,
 
 It is with great pleasure that I can announce the first release of MemX.
